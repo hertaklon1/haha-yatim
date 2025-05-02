@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>camellya & Lukwan</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      padding: 20px;
+      max-width: 600px;
+      margin: auto;
+    }
+    .card {
+      background-color: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .profile-pic {
+      width: 120px;
+      border-radius: 50%;
+      margin-bottom: 10px;
+    }
+    h1 {
+      margin-top: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <img src="https://i.imgur.com/jJlyEFO.jpeg" alt="Foto Profil" class="profile-pic">
+    <h1>Lukwan</h1>
+    <p>Email: hertaklon1@gmail.com</p>
+    <p>Hai kawan kontol, silakan buka tautan ini: 
+      <a href="https://www.pixiv.net/en/artworks/114607390" target="_blank">
+        https://www.pixiv.net/en/artworks/114607390
+      </a>
+    </p>
+  </div>
+</body>
+</html>
